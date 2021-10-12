@@ -47,3 +47,9 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
+
+div.goingback {
+    background-color: rgb(99, 217, 233);
+    padding: 1px;
+    text-align: center;
+}
