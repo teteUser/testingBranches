@@ -53,4 +53,5 @@ div.goingback {
     background-color: rgb(99, 217, 233);
     padding: 1px;
     text-align: center;
+    border-radius: 25px;
 }
